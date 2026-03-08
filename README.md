@@ -87,10 +87,8 @@ The model currently recognizes 8 traffic signs:
 
 ## Contributors
 
-**Wasin Srirachtrkul**
-| DGE | 2420110286
+**Wasin Srirachtrkul** | DGE | 2420110286 <br>
 Email: [wwasinnano@gmail.com](mailto:wwasinnano@gmail.com) / [2420110286@tni.ac.th](mailto:2420110286@tni.ac.th)
 
-**Prince Yeoj Cavan Maranga**
-| DGE | 2420110013
+**Prince Yeoj Cavan Maranga** | DGE | 2420110013 <br>
 Email: [princeyeojmaranga@gmail.com](mailto:princeyeojmaranga@gmail.com) / [2420110013@tni.ac.th](mailto:2420110013@tni.ac.th)
