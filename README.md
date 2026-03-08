@@ -141,22 +141,6 @@ The model currently recognizes:
 
 ---
 
-# 📁 Project Structure
-
-```
-Traffic-Sign-Recognition
-│
-├── detection.py
-├── traffic_sign_model.h5
-├── README.md
-│
-└── assets
-     ├── demo.gif
-     └── detection_example.png
-```
-
----
-
 # 👨‍💻 Contributors
 
 **Wasin Srirachtrkul**
